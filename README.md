@@ -1,7 +1,9 @@
 # 计算机专业毕业设计项目 定制开发
 
 您好！提供计算机毕业设计项目定制服务 毕业设计+论文 项目包调试，论文包修改查重 欢迎咨询 weixin: yaobishe 
+
 ![购物系统](项目图片/wx1.jpg)
+
 
 ## 项目特色
 - **技术栈丰富**: 涵盖 Java (Spring Boot, SSM), Python (Django, Flask), Vue.js, 微信小程序等主流技术。
